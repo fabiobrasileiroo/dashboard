@@ -1,5 +1,6 @@
 # Dashboard
 ### node v14.17.0
+## O que deu certo script>>>
 ###     Angular 14.
     Highcharts V10.1.0.
     Highcharts-Angular.
@@ -10,6 +11,14 @@ The project is set up using an Angular application environment and workspace wit
     npm 8.3.1
     Angular CLI: 14.0.2.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+Versao do awesome
+
+    angular-fontawesome@0.10.2
+
+Versao highcharts plota os graficos
+
+    angular-highcharts@10.1.0
+
 
 ## Development server
 
