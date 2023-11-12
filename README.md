@@ -1,4 +1,6 @@
 # Dashboard
+![Dashboard Trocados 1](./src/assets/img/DashboardTrocados1.png)
+![Dashboard Trocados 2](./src/assets/img/DashboardTrocados2.png)
 ### node v14.17.0
 ## O que deu certo script>>>
 ###     Angular 14.
