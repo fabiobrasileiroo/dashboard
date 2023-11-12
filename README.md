@@ -1,5 +1,14 @@
 # Dashboard
+### node v14.17.0
+###     Angular 14.
+    Highcharts V10.1.0.
+    Highcharts-Angular.
 
+The project is set up using an Angular application environment and workspace with the following settings:
+
+    Node: 14.17.0
+    npm 8.3.1
+    Angular CLI: 14.0.2.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 ## Development server
