@@ -14,7 +14,7 @@ export class SalesByMonthComponent implements OnInit {
       height: 325
     },
     title: {
-      text: 'Month wise sales'
+      text: 'Vendas mensais'
     },
     xAxis: {
       categories: [
@@ -34,12 +34,12 @@ export class SalesByMonthComponent implements OnInit {
     },
     yAxis: {
       title: {
-        text: 'Revenue in $'
+        text: 'Receita em R$'
       }
     },
     series: [
       {
-        name: "Arizona",
+        name: "Baratao",
         type: "line",
         color: '#044342',
         data: [70, 69, 95, 145, 182, 215, 252, 265, 233, 183, 139, 196]
@@ -53,11 +53,19 @@ export class SalesByMonthComponent implements OnInit {
         ]
       },
       {
-        name: 'Ohio',
+        name: 'Parque laranjeiras',
         type: 'line',
         color: '#ed9e20',
         data: [
           17, 22, 14, 25, 18, 19, 22, 43, 11, 32, 29, 59
+        ]
+      },
+      {
+        name: 'Torquarto',
+        type: 'line',
+        color: 'red',
+        data: [
+          10, 40, 54, 35, 60, 90, 75, 10, 5, 100, 110, 80
         ]
       },
     ],

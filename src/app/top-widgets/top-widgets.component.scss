@@ -1,6 +1,7 @@
 .widget-container {
   display: flex;
-  align-items: space-between;
+  //flex-wrap: wrap;
+  //justify-content: initial;
   .widget {
     width: 325px;
     height: 175px;
