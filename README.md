@@ -11,6 +11,7 @@ The project is set up using an Angular application environment and workspace wit
     npm 8.3.1
     Angular CLI: 14.0.2.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+
 Versao do awesome
 
     angular-fontawesome@0.10.2
